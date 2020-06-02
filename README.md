@@ -21,16 +21,22 @@ python main.py --conf amherst0.25
 
 ###data
 1\twitter or foursquare
+
 278  5
+
 6    5
+
 56  5
 ... ...
 
 meas node 278 link with node 5 with network
 2\train or test
 1
+
 2
+
 5
+
 6
 meas this is the anchor node, you can use 'devite_node.py' clip train file and test file for 10%-90%
 

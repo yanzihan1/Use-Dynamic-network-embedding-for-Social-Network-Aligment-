@@ -1,9 +1,9 @@
 # Use-Dynamic-network-embedding-for-Social-Network-Aligment-
-in this part, I will provide many tools for social networking, Link prediction and so on
-### We use this paper for dynamic social network alignment：
-### Dynamic Network Embedding: An Extended Approach for Skip-gram based Network Embedding
-### Authors: Lun Du, YunWang, Guojie Songy, Zhicong Lu, Junshan Wang
-### https://www.ijcai.org/Proceedings/2018/288
+###in this part, I will provide many tools for social networking, Link prediction and so on
+#### We use this paper for dynamic social network alignment：
+#### Dynamic Network Embedding: An Extended Approach for Skip-gram based Network Embedding
+#### Authors: Lun Du, YunWang, Guojie Songy, Zhicong Lu, Junshan Wang
+#### https://www.ijcai.org/Proceedings/2018/288
 We use this work to do dynamic Social-Network-Aligment
 You should frist 
                               run  'comebine_network.py',

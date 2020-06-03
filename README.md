@@ -44,3 +44,18 @@ meas this is the anchor node, you can use 'devite_node.py' clip train file and t
   You can
   
            run 'result.py'  to get this work's result
+#combine_network:
+       -foursquare
+       -twitter
+```     
+run ronghe.py 
+```
+you should combine foursquare with twitter
+```
+run split_graph.py
+```
+you should trans mat
+```
+run flag.py 
+```
+get flat file
